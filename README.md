@@ -1,6 +1,5 @@
-# QNAS
-*Junha Park, STA4119* <br/>
-Neural Architecture Search for Quantum Neural Networks
+# QNAS: Neural Architecture Search for Quantum Neural Networks
+*Junha Park* <br/>
 <img src = 'https://github.com/hahajjjun/QNAS/blob/master/res/QNAS_FINAL-02.jpg'></img>
 <img src = 'https://github.com/hahajjjun/QNAS/blob/master/res/QNAS_FINAL-03.jpg'></img>
 <img src = 'https://github.com/hahajjjun/QNAS/blob/master/res/QNAS_FINAL-04.jpg'></img>
