@@ -18,8 +18,3 @@ Neural Architecture Search for Quantum Neural Networks
 <img src = 'https://github.com/hahajjjun/QNAS/blob/master/res/QNAS_FINAL-16.jpg'></img>
 <img src = 'https://github.com/hahajjjun/QNAS/blob/master/res/QNAS_FINAL-17.jpg'></img>
 <img src = 'https://github.com/hahajjjun/QNAS/blob/master/res/QNAS_FINAL-18.jpg'></img>
-<img src = 'https://github.com/hahajjjun/QNAS/blob/master/res/QNAS_FINAL-19.jpg'></img>
-<img src = 'https://github.com/hahajjjun/QNAS/blob/master/res/QNAS_FINAL-20.jpg'></img>
-<img src = 'https://github.com/hahajjjun/QNAS/blob/master/res/QNAS_FINAL-21.jpg'></img>
-<img src = 'https://github.com/hahajjjun/QNAS/blob/master/res/QNAS_FINAL-22.jpg'></img>
-<img src = 'https://github.com/hahajjjun/QNAS/blob/master/res/QNAS_FINAL-23.jpg'></img>
